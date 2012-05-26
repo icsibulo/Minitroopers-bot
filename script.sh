@@ -5,8 +5,8 @@ headfun() {
 
 }
 
-friend=${2:-"kude2"}
-pass="banka213"
+friend=${2:-""}
+pass=""
 
 list=${1:-$(cat minitroopers.txt)}
 #list=${1:-$(. std_troopers.sh)}
