@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/hjulle/Documents/minitroopers.d
+cd /Users/Windows7/Downloads/minitroopers.txt
 echo -n "Starting scripts at " > script.log
 date >> script.log
 bash script.sh >> script.log
